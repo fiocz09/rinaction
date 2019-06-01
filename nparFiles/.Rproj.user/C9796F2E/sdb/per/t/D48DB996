@@ -1,0 +1,16 @@
+{
+    "contents" : "S3method(plot,oneway)\nS3method(print,oneway)\nS3method(summary,oneway)\nexport(oneway)\n",
+    "created" : 1397844809159.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3602546301",
+    "id" : "D48DB996",
+    "lastKnownWriteTime" : 1397763371,
+    "path" : "C:/RHome/npar/NAMESPACE",
+    "project_path" : "NAMESPACE",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_namespace"
+}

@@ -1,0 +1,16 @@
+{
+    "contents" : "Package: npar\nType: Package\nTitle: Nonparametric group comparisons\nVersion: 1.0\nDate: 2013-08-26\nAuthor: Rob Kabacoff\nMaintainer: Robert Kabacoff <robk@statmethods.net>\nDescription: This package assesses group differences using nonparametric\n    statistics. Currently a one-way layout is supported. Kruskal-Wallis tests\n    followed by pairwise Wilcoxon tests are provided. p-values are adjusted\n    for multiple comparisons using the p.adjust() function.\n    Results are plotted via annotated boxplots.\nLazyData: true\nLicense: MIT\n",
+    "created" : 1397843286538.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "775191563",
+    "id" : "1D6771FD",
+    "lastKnownWriteTime" : 1397825809,
+    "path" : "C:/RHome/npar/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "dcf"
+}

@@ -1,0 +1,16 @@
+{
+    "contents" : "#' @title Healthy Life Expectancy at Age 65\n#' \n#' @description A dataset containing the healthy life expectancy (expected\n#' years of life in good health) at age 65, by US state in 2007-2009. \n#' Estimates are reported separately for men and women. \n#' \n#' @docType data\n#' @keywords datasets\n#' @name life\n#' @usage life\n#' @format A data frame with 50 rows and 4 variables. The variables\n#' are as follows:\n#' \\describe{\n#'   \\item{region}{A factor with 5 levels (North Central, Northeast, South, West)}\n#'   \\item{state}{A factor with the 2-letter ISO codes for the 50 US states} \n#'   \\item{hlem}{Healthy life expectency for men in years}\n#'   \\item{hlef}{Healthy life expectency for women in years}\n#' }\n#' @source The \\code{hlem} and \\code{hlef} data were obtained from the Center for Disease Control \n#' and Prevention \\emph{Morbidity and Mortality Weekly Report} at\n#' \\url{http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6228a1.htm?s_cid=mm6228a1_w}.\n#' The \\code{region} variable was added from the \n#' \\code{\\link[datasets]{state.region}} dataset.\nNULL",
+    "created" : 1397844585876.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2813978130",
+    "id" : "B5775447",
+    "lastKnownWriteTime" : 1397763674,
+    "path" : "C:/RHome/npar/R/life.R",
+    "project_path" : "R/life.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
