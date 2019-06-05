@@ -1,3 +1,3 @@
-# Learn Python 3 the Hard Way Practice
+# R in Action Practice
 by Fritz Cao
-since 2018/9/19
+from 2018/09/19, to 2019/06/05
